@@ -1,0 +1,806 @@
+F=================================================================================
+			CRIPTO TRADING CLASS 3 ON 25-JUN-2023
+CANDLE COLORS:
+	Bulish: Green COLOR
+	Berish: Red color
+=================================================================================
+http://localhost/clean-blog/.http://localhost/clean-blog/index.php
+=================================================================================
+ALERTS-BOOTSTRAP:
+                    <div class="alert alert-dark bg-dark text-left text-white" role="alert">
+                        <?php echo $cat['name']; ?>
+                    </div>
+=================================================================================
+         if($_POST['search'] == '') {
+           echo "<div class='alert alert-danger bg-danger text-center text-white' role='alert'>enter search keyword first
+        </div>";
+           
+        }
+
+
+            //echo "<div class='alert alert-danger bg-danger text-center text-white' role='alert'>enter search keyword first</div>";
+            //echo "<h2>enter search keyword first</div>";
+
+
+=================================================================================
+
+
+Tl:  http://192.168.1.7:8888/#
+C:\Users\ranji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Ab$499404
+me dawaswala xam iwarwela gedarata wela monada karanne kammeli nedda mm
+Ab$499404
+Seu Colors:
+R473SUM2R 
+  R5AUS01 
+=========================================================================
+Current Job
+Job:   QPAD023454     User:   RANJITHJ       Number:   595725
+---------------------------------------------------------------
+WRKOBJPDM LIB(RANJITHJ1) OBJ(R5AUS01) OBJTYPE(*FILE) OBJATR('pf-src') | R501SPB*
+Change PDM Defaults (CHGPDMDFT)
+QPAD125726
+Crt Stored Proc for RPGLE pgm
+--------------------------------------------------------
+AS400/AUSTRALIA
+07-Mar-2023
+Keneth
+Suranga
+ERP System: The ERP Is system 21
+	https://www.acumatica.com/
+	https://www.infor.com/
+RPGLE(Total free), RPGLE(Free)
+
+
+dcl-f R2ESUMRP51 keyed USAGE(*UPDATE:*DELETE:*OUTPUT) 
+                       rename(ITMMSTR:fmt1) ;  // PF  
+R2ES0$1R51   
+  R2SAMPLE1  
+    RANJITHJ1
+
+R2ESUMRR51
+
+R4NSI73TST
+
+TTELEGRAM =====================================================================================================
++94 76 876 7593 Lakmini Sunamya,  Gallfe Unui student
+779675720 Thenuji Siriwardhana, (class on: Sat, Sun, Tue, Wed)
+77 079 8141 U Kawya 17 colmbo 770798141
+U IMASHI HANSINI 18 Gampaha 
+U Ashinka Shanshini 22 anuradapure tch 1st year 779343169
+U Sandaru~ Cripto Currency Doubler
+U Iruni Umega 21 Bandaragama +94 75 836 4792
+U Dinithi Devindi 18 Pinnaduwe, Galle 71 261 6195
+U Shashini Nisansala 71 980 7378
+U ʜɪʀᴜɢɪʀʟ Hiruni Kaveesha 17 Horana 741153765
+U 𝐒𝐚𝐦𝐮𝐝𝐢 S𝐚𝐧𝐣𝐚𝐧𝐚 17 Ragama 70 582 9655 Bday 01-sep-2023 Bday: January 9th
+U Thenuji Siriwardhana 17 Hakmana 779675720 Bday sep-17
+U Thejani Hansani 18 Welimada 77 736 9311 alvls 2024
+U Sahiri lawandhi 17 Mirigama 703481965 alvls 2024
+04-Feb-2023 U Chamini 18 Kurnagala Alvls 2023
+06-Feb-2023 U Achini Lakshika 18 Seeduwa 2024 Alvls
+06-Feb-2023 U Janithya Nishadi Badulla 19
+08-Feb-2023 U Gayathri Kaushalya Colombo
+31-Jan-2023 U Ishara Udayangani 23 Beminiyanvila 760365789 FB:Dhisha abeywickrama
+10-Feb-2023 U Imasha Dananjani Ampara 19 Tel:769168921
+11-Feb-2023 Tharushi Nethmini Mathara 19 Alvls 2023 716376306
+Deepthi Nishshanka 21 Nawalapitiya 769713399
+12-Feb-2023 U Hashanthi Janadhi Mahawa 19 2013 alvls
+U Amalka Rajapakshage Walasmulla 
+13-Feb-2023 U Nishana Dulmini Ganemulla 18
+15-Feb-2023 U Charuni Mirihella Polgahawela 22  (Yinada Padmadasa)
+18-Feb-2023 U Rashmi Navoda Badulla 20 
+23-Feb-2023 U Pavani Tharindi Thelijawila
+24-Feb-2023 U Nethmi Mahaiyawe
+U Udumbara Marasinghe Nathandiya 19
+U Sanuu Kandy 19
+U Sathya Sameekshan Wadduwa 24
+27-Feb-2023 U Chithanii kariyawasam Horana 21
+U Thejani Kavi Naramala 24 [27] Uni stdnt
+03-Mar2023 U Dewmi Chanudi Ambalngoda 21 Weerasinghe
+01-May2023 U Gimhani Wickramatilaka Ambalangoda 70 197 0491
+09-May2023 U Dulmi Disanayaka Kurne gala
+09-May2023 Mil Balangoda 20 Alvls milini frenando
+02-Jun 2023 U Dulmi Ahinsa Mathara
+02-Jun 2023 U Tharindee Nathasha Polpithigama 20 Tharindee Nathasha Bday 2003.02.27
+U chamidi sadeepani Balangoda 21
+09-Jul 2023 Sithu Sameepa Bataatha 20
+
+30-Aug2023 U Imasha liyanarachchi Kaluthara 16 olvls passed alavla 2025
+30-Aug2023 U Yasodara Mayadunna Kurnagala 29 Nvq student 0772821127
+31-Aug2023 U Subhashini Dewmika Nikaweratiya 21 2nd shy alvls
+U Ruwi Abeykoon canada +94 76 589 0667
+
+AIRTEL CHAT
+01-JUN 2023 amashani Mawenela 28 Garment employer amodya rashmi senavirathna..
+ruwi8 Pnadura 17
+04-JUN 2023 Harshi88 Bandarawela 2
+Sashiii Kandy 25 
+13-Jun 2023 sithaara Mathale 17 
+14-Jun 2023 Ranuli Walasgala 20 gaguli laawanya weerawardana   married
+16-Jun 2023 sachini05 KANDY 23
+18-Jun 2023gagani1 kegalla 20
+28-Jun 2023 dinusi Kandy 20
+28-Jun 2023 chutinangi Mathale 28
+suba5 Mathra 35
+----------------------------------------------------------
+POSTINOR 
+* randi4 16 Rideemaliyada
+paboda 21 Mathale
+janaki15 Galle
+* rtag 35[38]Tharangi
+senithi2 biyagama 20[25] Alvl 2nd shy
+maheshi6 Lunugamwehera 
+randi Gam5 25 English teacher
+Ak47 Kandy 23 Akshya
+glma Mathugama 36 stay at home. . maumi sithara
+iman4 Kalawana Imandi=Nawodya
+05-May-23 hiruni16 Badulla 17
+akshi Kandy 26
+
+------------------------
+-------------------------------------------------------------------------
+Gm nangi
+Gm sudu
+Gm mn jogging gihin dn gedar awe
+
+editor eke thiyene eke delete karala mn ewapu eke copy and paste karanna TYPPE KARANNA NM EPA ERROR THMA HONDE
+
+Ayy oyata mewa amaru. . . oya mekata awe me para alvls karala gedara nikan inna gamanda nanagi?
+mn oke cerficate eke gatha ea nisa serama mathakay beri deyk ahuwoth kiyaala denem oyata 
+oya mekata awe me para alvls karala gedara nikan inna gamanda nanagi?Pyton kiyanne case sesitive and indentaion sensitve language eke nisa type ekeranakota paressam wenne oni nethnam Error thama
+
+ithin oya kohenda nangi mn nm colombo
+wow mage gamath mathara thama dn colombo padinchi unaa.. nanagi koheda mathara?
+
+oya me course 6 serama compleate kalaoth oyata 75,000 satarating jb ekeketa yanna puluwan. . ea nisa mahanasi wela karanna hond
+course eke online. . totaly freee. . kala seemewak ne. . id thiyene welwaka karanna puluwan 
+
+mn oke mul course 4ma certificates gatha. . dn 4 wana eka Final assaignmnt eke inne nenegi. . ea nisa serama mathakay beri deyk ahuwoth kiyaala denem oyata
+
+
+pawle thawa kauda inne nangi?
+ammo ehnm kelloma denek neda pawle ehen ayya kenek. . ehnm kelleta gaderin mara thanchi athi neda. .. Kollek diha balanawth thanam athi neda mm?
+ammo ehnm ekama kella neda pawle. . ehnm kelleta gaderin mara thanchi athi neda. .. Kollek diha balanawth thanam athi neda mm?
+ea kiyanne bf kenek athi neda danatamath mm
+kawadawathma indala neda. . jwtheta lv karalama nedda nangi?
+ithin cls yanakota lassana kellek passen kochra kollo enewada. . eyn ekkenekutawath oayage hith giye nedda nanagi mm
+
+oya editor eke thiyene eke delete karala copy and paste karanna nanagi. . TYPE KARANNA NM YANEPA HONDE. . ERROR THAMA ITHIN
+
+Python kiyne case sensitive and tab sensitive language eke . eka akuraka werdiyata liwoth ho tab eke 
+weradiyatrta gahuwothSYNTAX ERROR thama ithin . . ekene mn kiwe mn ewana code type karanna epa 
+copy and paste karanna kiyala. . neth nm ithin ERROR MA THAMA
+
+SICKNESS
+mage ththa nethiune mn olvls karanakota. . amma nowindina duk windala api 3n deneta igenuwe. . 
+ea nsa mn lv gana hithuwe ne yaluwan noekuth balapam kalath. . mta goda enne thibuna ekema maga studies. . 
+yowun premay nolada eke dukak thama eth mn mge trgets achive kala nanagi. . onna oky une mta
+
+LOVE:
+ape thatha netiune mn olvls karaddi. . ayyay akkay maty uganawana novindina duk winda. . 
+ewa deke eka mn komad lv gene hithane. . mta goda yana thibuna ekama mage studys mn eke thoragtaha mge targets achive kala. . 
+yowun premaya ahimi unat duky dan eth mn  ada inna thana gana hithala senasenawa nanagi
+
+
+NWE COMER:
+Mokadda nanagi oyata oni help eke grp eketa dala thibuna??
+
+1.oya karana kramaya weradiy athi
+2. Lecture vedeo, Lecthure note, quiz , Lecture slides thiyenewa neda wam atha peyte
+3. eke thiyene piliwelata TAHRIN PATHARA  SKIP KARANNE NETHUWA KARAMA  sumery eketa awhama daknu ath pate marks wtila total eke salakiya yuthu ganak wetila thiyenawa . .
+4.  ehmanam submit karanna neth nam ep
+
+ANGULAR =====================================================================================================
+1. ---------------------------------------------------
+products
+	products.component.ts
+		  selector: 'app-products_4_11',
+		export class Products_4_11Component implements OnInit {
+app.module.ts
+	import { Products_4_11Component } from './components/4.11 Angular Lifecycle Hooks/products/products.component';
+	    Products_4_11Component,
+app.component.html
+	<app-products_4_11></app-products_4_11>
+
+2. ---------------------------------------------------
+add-product
+	add-product.component.ts
+		  selector: 'app-add-products_4_11',
+		export class AddProducts_4_11Component implements OnInit {
+app.module.ts
+	import { AddProducts_4_11Component } from './components/4.11 Angular Lifecycle Hooks/add-product/add-product.component';
+	    AddProducts_4_11Component,
+app.component.html
+	<app-add-products_4_11></app-add-products_4_11>
+
+
+Momentus-220-C-Win-10
+Momentus-2020-C-Sys-Rsvd
+
+TV REPAIR =====================================================================================================
+Msg to Samsung Customer Ceneter
+Previus Samsung job no: 4352765857 
+Previus John Keels Repir center job no: ZL018122 (Mr. Avantha)
+Customer Name: A.M.R. Jayawardana
+
+Item: Samsung Tv
+Description: Samsung LED Smart TV 32' UA32N4300ARXSG 
+Waranty: 3 Years warenty
+Date of purchase: 08-08-2020
+Fault: Sound is OK but Black screen for second toime in 3 months again
+Previous Description : please refer to abaove job numbers abaove satated
+
+
+Sachini Ranathunga
+akashranathunga59@gmail.com
+
+
+
+Username
+deepthi2023
+The password must have at least 8 characters, at least 1 digit(s), at least 1 lower case letter(s), at least 1 upper case letter(s), at least 1 special character(s) such as as *, -, or #
+Password
+•••••••••••
+
+More details
+Email address
+deepthikumari4u@gmail.com
+Email (again)
+deepthikumari4u@gmail.com
+First name
+Deepthi
+Surname
+Nishshanka
+City/town
+Kandy
+Country
+
+Sri Lanka
+
+======================================================
+
+Q1
+A route object consist of ______
+a. Path and component
+b. Template and service
+c. Component and route array
+d. Path and router module
+e. Service and component
+A. d. Path and router module
+
+Q2:
+Where should the AppRoutingModule be registered?
+a. app.component.html
+b. index.html
+c app.module.ts
+d. app.component.ts
+e. router module
+A. c. app.module.ts
+
+Q3:
+Nimali has defined the following routes in the routes array. She has defined different routes for the same component too. Which route will
+work in this scenario?
+const routes: Routes [ =
+{path: '', component: ProductsComponent},
+{path: 'product', component: ProductsComponent},
+{path: 'products', component: ProductsComponent},
+{path: 'products-list', component: ProductsComponent},
+{path: 'product-detail-view/:id', component: ViewProduct DetailsComponent}];
+A: b.   All of the routes will work in this scenario.
+
+Q4
+Kasun wanted to navigate to another page in his angular application through a button click. So he implemented a new route to a different URL.
+However, it is not working. Which of the following might not be the reason?
+a. router-outlet is not defined
+b. Router is not injected into the component
+c. Router module is not imported in app-routing.module.ts
+d. Route is not defined in routes array
+e. routerLink attribute is not used for button
+A: e. routerLink attribute is not used for button (was correct)
+
+Q5
+Which directive is used to display the component matched by routes?
+a. <app-routing>
+b. <app-component>
+c. <routerLink>
+d. <router-outlet>
+e. <router>
+A: d. <router-outlet> (was correct)
+
+
+ne ne oketa witharay oni. . oya specilize keranawanam. . online certificatyaiaon jobs hoyagana industry eke oyat oni 
+welawk Brige register wela projects karala score karanna puluwn .. ehma nathnm eka amathaka kral ithuru ewa karagaena 
+yanna. . anith ewata owa oni ne
+
+TELEGRAM BOT REQUWST --------------------------------------------------------------------------------------------
+1. Would you tell me wts the wrong thing I've done
+2. I want to help students who has deficulties register to UOM and help with difficulties. . Nothing else
+3. I never uploaded any vedeos or advertestments, If any please prove them please
+--------------------------------------------------------------------------------------------------------------
+Username: malkidissanayaka
+Password Aa$malki23
+First name Malki
+Surname Disanayake
+City/town Anuradapura
+Country Sri Lanka
+
+me signup wenawane. . . oya mokeneda regune userid/password walinda nethnm google acnt ekeneda
+
+
+mona hari sundara deyak kiyn me sundara wesi dinayee
+
+Notes
+
+Introduction: Why Bakup Restore?
+
+Instead of using libraries sorce files will be used here to store source members
+
+Compile and run R311INT
+    Following objects wiil be crated in QTMP
+        AAA_INT     CLLE        R3.11. .INITIAL PGM to compile & run R311INT   [1]
+        R311INTC1   CLLE        Remote execute job INTITIAL PROGRAM            [3]
+    Run  AAA_INT 
+Following objects wiil be crated in QTMP
+R_MBRLST    CMD         R3.11. .Crt Usr Cmd MBRLST                   
+
+
+Job:   QPAD025033     User:   RANJITHJ       Number:   103713 
+--------------------------------------------------------------------------------
+DROMENT ACOUNTS SAMPATH BANK
+04/12/2022	1034 1389 0643	5,380. 18	Rjent Sav Thimbirigasyaya
+22/04/2023	1052 5301 2533	1,000. 67	Ranjith - SAV - Kottawa
+22/04/2023	0034 1000 5637	25,000. 48 	Rjent Cur Thibirigasyaya
+22/04/2023	1001 5096 7362	1,000. 76	Ranjith - SAV - City
+22/04/2023	1013 5010 3903	1,000. 15	Mani - JointSav - Maharagama
+
+22/04/2023	Hit Save Account 1034 1389 0643
+Dear sir
+My account doesn't show in the TRANSFER MONY Screen though it is status Active
+
+So I cannot do any transfers. . Please look at this and solve it
+Thanking you
+
+
+
+Emai-ishaniwijethungamudhiyanselage
+first name-ishani
+Surname-wijethunga mudhiyanselage 
+City-walimada
+userid: ishanipramodya
+password:Aa$welimada
+
+Username
+ishanipramodya
+The password must have at least 8 characters, at least 1 digit(s), at least 1 lower case letter(s), at least 1 upper case letter(s), at least 1 special character(s) such as as *, -, or #
+Password
+•••••••••••
+Aa$welimada1
+More details
+Email address
+ishaniwijethungamudhiyanselage
+Email (again)
+ishaniwijethungamudhiyanselage
+First name
+Ishani
+Surname
+Wijethunga Mudhiyanselage
+City/town
+Welimada
+Country
+
+You need to confirm your account
+An email should have been sent to your address at ishaniwijethungamudhiyanselage@gmail.com
+Username: ishanipramodya
+Password: Aa$welimada1
+-----------------------------------------------------------------------------------------------
+Basics:
+First Name
+H.R.Vindya Vidumini
+Last Name
+Pemadasa
+Userid: vindyahrpemadasa@gmail.com
+Passwrd: hrv1801%
+----------------------------------------------------
+Sir
+The following order has been placed on 29 May 2023 from DARAZ online store on Sampath Bank Installment basis
+But the installment process has not yet been done by yr bank for 3 days now
+I asked Draz they said it will be done by Sampath Bank
+
+Samsung Galaxy F13 - 4GB RAM 64GB ROM 6000mAh Battery ( Free Tempared + Handsfree )
+1 Year Seller Warranty
+
+Rs. 49,500
+Qty: 1
+
+Shipping Address
+Ranjith Jayawardana
+HOME Western, Colombo - Greater, Pannipitiya, 360/4 Maya Mawatha, Makumbura
+718111805
+SubtotalRs. 49,500
+Delivery FeeRs. 269
+Discounts
+-Rs. 1,269
+TotalRs. 48,500
+Paid by Installment
+
+--------------------------
+වියලුනු දණ්ඩක් දළු කොළ මල් ලා එක රැයකින් පැළවෙය්  (A dry stem, leaves and flowers sprout overnight)
+-------------------------------
+May ha Juni masa wala hinga poliya :    
+08-May 1,000    
+28-May 2,000 
+08-Jun 1,000    
+  
+TOTAL = 4,000  
+**** Meka samprnayen berinam tiak tika hari DANNA PLS
+- Mn komada me serama gewanne poli karayata
+- Call msg nokar indima meketa wisnduma newi neda
+
+Shadow1995 ane ayy aapugaman giye hi wath kiyane nethuwa. . Tutaka admbaray neda mm
+
+Dear sir
+Following Relod i have made this morning at 5:20. . .But not yet have beene come to my PHONE 0783045696
+Please make this relod immedeatly. . thank u
+----------------------------------
+Payment Id 102200995
+Payment Date 07/06/2023 05:20:03
+Payee HUTCH
+From Account 105253496503
+Amount 25.00 LKR
+Status Successful
+Payment Details 0783045696
+
+<input type="button" value="Add to Cart" <?php if ($prod_qty == '0'){ ?> disabled <?php   } ?> onclick="addtocart(<?php echo $row["prod_id"]?>)" />
+<?php else : ?> 
+
+                            <?php if(isset($_POST['username'])) {  ?> 
+
+
+<li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" <?php if(isset($_POST['username'])) { ?> href="../clean-blog/auth/login.php"  <?php   }; ?>   >Login</a></li>
+
+
+                        <!-- <a href="http://localhost/clean-blog/posts/post.php?post_id=<?php echo $row->id; ?>" -->
+
+----------------------
+http://localhost/clean-blog/posts/post.php?post_id=18
+
+
+profil.php
+-----------------------------------------------------------------------------------------------------
+ <p> 
+<?php foreach ($posts as $cat2) : ?>
+      <?php echo "YY" .$cat2['id']; ?>
+      <?php echo "  "  ?>
+    <?php endforeach ; ?>
+</p>
+<?php $cat2 = null; ?>
+
+-------------------------------------------------------------------------------------------------
+SOLAR PANEL CLAIM-4
+
+dESRIPTION: In 2013 I bought 4 numbers 250W panels and 3 of them have been replace under warranty claim. Now the remaining panel is also defect. It shows 23V instead of 33V.
+Your Claim Reference No. is :R20230621016C
+
+        comments.id AS comment.id,
+
+
+
+        <section>
+          <div class="container my-5 py-5">
+            <div class="row d-flex justify-content-center">
+              <div class="col-md-12 col-lg-10 col-xl-8">
+                <h3 class="mb-5">Comments</h3>
+            <?php foreach($allcomments as $comment) : ?>
+
+                <div class="card">
+                  <div class="card-body">
+                    <div class="d-flex flex-start align-items-center">
+                    
+                    <div>
+                        <h6 class="fw-bold text-primary"><?php echo $comment['user_name_comment'] ?><h8 class="p-3 text-black"><?php echo $comment['created_at'] ?></h8></h6>
+                        
+                    </div>
+                    </div>
+
+                    <p class="mt-3 mb-4 pb-2">
+                    <?php echo $comment['comment'] ?>                        </p>
+                <?php endforeach; ?>
+                   
+                  </div>
+                  <!-- <form method="POST" action="post.php?post_id=<?php echo $id; ?>"> -->
+                  <?php if( $username == "") : ?>
+                    <?php echo _alert_link("Login ot register. . <br>", "danger", "post.php?post_id=".$id, " Click here to Refresh."); ?>
+                <?php else : ?>
+                  <form method="POST">
+
+                        <div class="card-footer py-3 border-0" style="background-color: #f8f9fa;">
+
+                            <div class="d-flex flex-start w-100">
+                            
+                                <div class="form-outline w-100">
+                                    <?php if( $comment_empty) : ?>
+                                        <?php echo _alert_link("Comment cannot be empty. . <br>", "danger", "post.php?post_id=".$id, " Click here to Refresh."); ?>
+                                    <?php endif ; ?>
+                                    <textarea class="form-control" id="" placeholder="write message" rows="4"
+                                     name="comment"></textarea>
+                                
+                                </div>
+                            </div>
+
+                             <div class="float-end mt-2 pt-1">
+
+                                <button type="submit" name="submit" class="btn btn-primary btn-sm mb-3">Post comment</button>
+                                </div>
+                            </div>
+                    </form>
+                <?php endif ; ?>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 04-jul-2023 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+LUCKY AREAS: 
+May,Juni masa wala hinga poliya :    
+08-May 1,000    
+28-May 2,000 
+08-Jun 1,000    
+28-Jun 2,000 
+---
+08-Jly 1,000    
+  
+TOTAL = 7,000
+
+SIRIWARDANA AREAS:
+Juni mase hinga poliya :    
+18-Jun 4,000    
+  
+TOTAL = 4,000
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Server: sql6.freemysqlhosting.net
+Name: sql6634873
+Username: sql6634873
+Password: XELfAdwfAp
+Port number: 3306
+
+
+DatabaseHost: sql6.freesqldatabase.com
+Database Name: sql6634873
+Username: sql6634873
+Password: XELfAdwfAp
+Port number: 3306
+
+
+installing mail smpt to vb-code project---------------------------------
+cd "C:\xampp2023\HTDOCS\Ud-02-attendence"
+composer require sendgrid/sendgrid
+------------------------------------------------------------------------
+
+Failed opening '../../includes/session.php' for inclusion (include_path='C:\xampp2023\php\PEAR') in C:\xampp2023\HTDOCS\Ud-03-mahiblog\admin-panel\layouts\header.php on line 7
+
+
+
+        public function editAttendee($id,$fname, $lname, $dob, $email,$contact,$specialty){
+           try{ 
+                $sql = "UPDATE `attendee` SET `firstname`=:fname,`lastname`=:lname,`dateofbirth`=:dob,`emailaddress`=:email,`contactnumber`=:contact,`specialty_id`=:specialty WHERE attendee_id = :id ";
+                $stmt = $this->db->prepare($sql);
+                // bind all placeholders to the actual values
+                $stmt->bindparam(':id',$id);
+                $stmt->bindparam(':fname',$fname);
+                $stmt->bindparam(':lname',$lname);
+                $stmt->bindparam(':dob',$dob);
+                $stmt->bindparam(':email',$email);
+                $stmt->bindparam(':contact',$contact);
+                $stmt->bindparam(':specialty',$specialty);
+
+                // execute statement
+                $stmt->execute();
+                return true;
+           }catch (PDOException $e) {
+            echo $e->getMessage();
+            return false;
+           }
+            
+        }
+
+------------17-aug-2023------infinityfreeapp.com-----------------------------------------------------
+
+http://tst-1.infinityfreeapp.com/Ud-04-mahiblog/admin-panel/?i=1
+
+
+Account Details
+USERNAME
+if0_34821597
+PASSWORD
+*************** 
+STATUS
+LABEL
+Website for tst-1.infinityfreeapp.com
+WEBSITE IP
+185.27.134.128
+HOSTING VOLUME
+vol14_4
+HOME DIRECTORY
+/home/vol14_4/infinityfree.com/if0_34821597
+CREATION DATE
+2023-08-15
+
+USS F VS-CODE ----------------------------
+FTP Details for if0_34821597
+
+FTP USERNAME
+if0_34821597
+
+FTP PASSWORD
+q6CJCIvgPj9zjh5
+
+FTP HOSTNAME
+ftpupload.net
+
+FTP PORT (OPTIONAL)
+21
+
+
+def get_input():
+    a = int(input("Enter number one: "))
+    b = int(input("Enter number two: "))
+    print (a+b)
+
+
+[
+	{
+		"name": "Infinity Free Web Portfolio",
+		"host": "ftpupload.net",
+		"port": 21,
+		"type": "ftp",
+		"username": "if0_34821597",
+		"password": "q6CJCIvgPj9zjh5",
+		"path": "/Ud-04-MAHIBLOG/",
+		"autosave": false,
+		"confirm": false
+	}
+]
+
+
+
+====================== REMOTE ==========================
+
+http://tst-1.infinityfreeapp.com/
+Userid: dammika@gmail.com
+Password: pwdammika
+
+http://tst-1.infinityfreeapp.com/
+Userid: ashan@gmail.com
+Password: pwashan
+====================== REMOTE ==========================
+
+         <?php
+        $results_item = $item->getItemsByCategoryId(2);
+        while ($rec_itm = $results_item->fetch(PDO::FETCH_ASSOC)) {
+        ?>
+ 
+ <div class="col-sm-6 col-lg-4 all pizza">
+          <div class="box">
+            <div>
+              <div class="img-box">
+                <!-- <img src="images/f1.png" alt=""> -->
+                <img src="<?php echo $rec_itm['itm_img'] ?>" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  <!-- Delicious Pizza -->
+                  <?php echo $rec_itm['itm_name'] ?>
+                </h5>
+                <p>
+                  <!-- Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque -->
+                  <?php echo $rec_itm['itm_description'] ?>
+                </p>
+                <div class="options">
+                  <h6>
+                    <!-- Rs. 700 -->
+                    <?php echo $rec_itm['itm_price'] ?>
+                  </h6>
+                  <a href="">
+                    <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
+                      <g>
+                        <g>
+                          <path d="M345.6,338.862c-29.184,0-53.248,23.552-53.248,53.248c0,29.184,23.552,53.248,53.248,53.248
+                         c29.184,0,53.248-23.552,53.248-53.248C398.336,362.926,374.784,338.862,345.6,338.862z" />
+                        </g>
+                      </g>
+                      <g>
+                        <g>
+                          <path d="M439.296,84.91c-1.024,0-2.56-0.512-4.096-0.512H112.64l-5.12-34.304C104.448,27.566,84.992,10.67,61.952,10.67H20.48
+                         C9.216,10.67,0,19.886,0,31.15c0,11.264,9.216,20.48,20.48,20.48h41.472c2.56,0,4.608,2.048,5.12,4.608l31.744,216.064
+                         c4.096,27.136,27.648,47.616,55.296,47.616h212.992c26.624,0,49.664-18.944,55.296-45.056l33.28-166.4
+                         C457.728,97.71,450.56,86.958,439.296,84.91z" />
+                        </g>
+                      </g>
+                      <g>
+                        <g>
+                          <path d="M215.04,389.55c-1.024-28.16-24.576-50.688-52.736-50.688c-29.696,1.536-52.224,26.112-51.2,55.296
+                         c1.024,28.16,24.064,50.688,52.224,50.688h1.024C193.536,443.31,216.576,418.734,215.04,389.55z" />
+                        </g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                      <g>
+                      </g>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <?php } ?>
+
+Nchor Links
+      	<a href="#ol-li-a-href-1">Recipe-1</a>
+	  <h2 id="ol-li-a-href-1">Recipe-1</h2>
+
+====================== WORDPRESS ===================================
+item name, item description, item prce, item s
+=========================================
+http://mahijaya.great-site.net/Ud-04-mahiblog/viewrecords.php
+http://mahijaya.great-site.net/Ud-04-mahiblog/index.php
+ft-01-bookings
+
+
+Pay to HUTCH
+Amount in Rs. 31.00
+Mobile Number 0783415611
+Reference N/A
+Payment Mode Online Payment
+============================ Paypal =================================================
+Ad3R3L_aqb8lroUf3WWNhIL3ibzgmiqMw-36r-b8HxhFJG4OkIr00wus9E_rIjwtNWQXiEH1utR2or6Q
+
+sb-7s6j527865504@business.example.com
+Login Info
+Sandbox URL
+https://sandbox.paypal.com
+
+Email
+sb-7s6j527865504@business.example.com
+
+Password
+••••••••••••••••
+
+=========================================================================================
+HTML, CSS, BOOTSTRAP,  PHP, MYSQL
+
+Mn igenegene thiyene ewa meway:
+HTML, CSS, BOOTSTRAP,  PHP, MYSQL, MSSQL, ANGULAR, REACT, NEXTJS, PYTHON, JAVA, 
+JAVASCRIPT, VBSCRIPT, JSP, ASP, NODEJS, SQL, JQUERY, JSON, AJAX, WORDPRESS, 
+ODOO, CODEIGNITER, LARAVEL
